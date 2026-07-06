@@ -261,6 +261,9 @@ terraform plan -refresh=false
 
 ---
 
+<img width="1276" height="693" alt="image" src="https://github.com/user-attachments/assets/9c5b061f-508a-4e62-bccf-99c450c7f401" />
+
+
 # 👨‍💻 Author
 
 **Akash Chotaliya**
