@@ -261,13 +261,12 @@ terraform plan -refresh=false
 
 ---
 
+ScreenShorts
+
+Add screenshots of terraform plan output, the running ECS service, and a successful psql query here once you've applied the infrastructure.
+
+Terraform Init, Format & Validate — Dev
+
 <img width="1276" height="693" alt="image" src="https://github.com/user-attachments/assets/9c5b061f-508a-4e62-bccf-99c450c7f401" />
 
 
-# 👨‍💻 Author
-
-**Akash Chotaliya**
-
-AWS Cloud & DevOps Engineer
-
-GitHub: https://github.com/your-github-username
